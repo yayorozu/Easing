@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UniLib.Easing
+namespace Yorozu.Easing
 {
 	public class Ease
 	{

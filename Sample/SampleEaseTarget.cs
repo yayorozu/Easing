@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
-using UniLib;
-using UniLib.Easing;
+using Yorozu;
+using Yorozu.Easing;
 
 [ExecuteInEditMode]
 public class SampleEaseTarget : MonoBehaviour

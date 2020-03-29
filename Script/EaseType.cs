@@ -1,4 +1,4 @@
-namespace UniLib.Easing
+namespace Yorozu.Easing
 {
 	public enum EaseType
 	{
