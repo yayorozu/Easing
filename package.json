@@ -1,0 +1,21 @@
+{
+  "name": "yorozu.ease",
+  "version": "1.0.0",
+  "displayName": "Ease",
+  "description": "Easing Functions",
+  "keywords": [
+    "Yorozu"
+  ],
+  "author": {
+    "name": "Yorozu",
+    "email": "hatch.tech.eng@gmail.com",
+    "url": "https://github.com/yayorozu"
+  },
+  "samples": [
+    {
+      "displayName": "Ease Sample",
+      "description": "",
+      "path": "Samples~/SampleEase"
+    }
+  ]
+}
